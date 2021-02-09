@@ -15,6 +15,6 @@ pip2 install requests
 
 pip2 install tqdm
 
-git clone https://github.com/dlih75
+git clone https://github.com/dlih75/BMF.py/blob/main/BMG
 
 python2 BMF.py
